@@ -143,6 +143,7 @@ social i{
 }
 .brand img{
   height: 100px;
+  border-radius: 50%;
 }
 .brand a{
   margin:0px 50px;
